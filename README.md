@@ -1,1 +1,1 @@
-# go-react-clean-arch
+# go-react-clean-architecture
